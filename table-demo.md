@@ -1,8 +1,8 @@
 ---
 layout: liquid-table
 title: 'amiright?'
-.reynolds:
-  .strengths:
+reynolds:
+  strengths:
   - good father
   - funny
   - dated alanis morissette
@@ -10,8 +10,8 @@ title: 'amiright?'
   - singing
   - green lantern movie
   - tennis backhand
-.gosling:
-  .strengths: 
+gosling:
+  strengths: 
   - builds houses
   - is a real boy
   - never dated alanis morissette
